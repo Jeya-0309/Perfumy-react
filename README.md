@@ -68,7 +68,7 @@ Through this project, I practised:
 Clone the repository:
 
 ```bash
-git clone [YOUR_GITHUB_REPOSITORY_URL](https://github.com/Jeya-0309/Perfumy-react.git)
+git clone [GITHUB_REPOSITORY_URL](https://github.com/Jeya-0309/Perfumy-react.git)
 ```
 
 Navigate to the project folder:
